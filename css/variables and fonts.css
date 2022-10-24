@@ -1,0 +1,9 @@
+:root {
+    --White: hsl(0, 0%, 100%);
+    --Light-gray: hsl(212, 45%, 89%);
+    --Grayish-blue: hsl(220, 15%, 55%);
+    --Dark-blue: hsla(217, 45%, 22%, 0.096);
+    --p-size: 15px;
+    --bold-weight: 700;
+    --normal-weight: 400;
+}

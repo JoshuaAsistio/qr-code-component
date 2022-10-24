@@ -1,0 +1,48 @@
+@import url("variables and fonts.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-color: var(--Light-gray);
+    padding: 50px 0;
+}
+
+.card {
+    width: 320px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 10px var(--Dark-blue);
+}
+
+img {
+    width: 288px;
+    min-height: auto;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: var(--p-size);
+}
+
+.weight-700 {
+    font-weight: var(--bold-weight);
+}
+
+.light-gray-text {
+    color: var(--Grayish-blue);
+}
